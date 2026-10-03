@@ -1,10 +1,9 @@
-
-
 # 🛍️ Customer Shopping Behavior Analysis
 
 An end-to-end **Customer Shopping Behavior Analysis** project using **Python, PostgreSQL, SQL, and Power BI** to analyze customer purchasing patterns, product preferences, subscription behavior, discounts, and revenue trends.
 
 ---
+![Dashboard]("C:\Users\waghm\OneDrive\Pictures\Dashboard.png")
 
 ## 📌 Project Overview
 
