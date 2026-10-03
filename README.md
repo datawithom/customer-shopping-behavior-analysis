@@ -5,8 +5,9 @@ An end-to-end **Customer Shopping Behavior Analysis** project using **Python, Po
 ---
 ## 📊 Power BI Dashboard
 
-![Customer Shopping Behavior Dashboard](images/dashboard.png)
-
+<p align="center">
+  <img src="images/Dashboard.png" alt="Customer Behavior Dashboard" width="100%">
+</p>
 
 ## 📌 Project Overview
 
